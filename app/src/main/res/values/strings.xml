@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andronity</string>
+    <string name="nama">nama</string>
+    <string name="alamat">alamat</string>
+    <string name="tgl_lahir">tgl lahir</string>
+    <string name="jenis_kelamin">jenis kelamin</string>
+    <string name="simpan">simpan</string>
+</resources>
